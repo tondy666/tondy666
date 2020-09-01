@@ -1,6 +1,7 @@
 ### Hallo , I'm Tondy Welcome To My Github Profile :v  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" />
+<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" />
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/tondy_666?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftondy_666&screen_name=tondy_666)
 
 ## I'm a Student In Electronic Engineering Polytechnic Institute of Surabaya
