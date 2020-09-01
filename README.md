@@ -24,7 +24,7 @@
 
 ---
 
-![Tondy666's github stats](https://github-readme-stats.vercel.app/api?username=tondy666)
+![Tondy666's github stats](https://github-readme-stats-5fsr4i2qn.vercel.app/api?username=tondy666)
 
 [twitter]: https://twitter.com/tondy_666
 [instagram]: https://instagram.com/tondy_666
