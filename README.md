@@ -1,8 +1,6 @@
-### Hallo , I'm Tondy Welcome To My Github Profile :v  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hallo , I'm Tondy Welcome To My Github Profile :v  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" />
 
----
-<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" />
----
+
 <img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/KDDpcKigbfFpnejZs6/200.webp" />
 
 
