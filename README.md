@@ -11,6 +11,8 @@
 - 👯 Developing WhatsApp Bot with small usefull features 
 - 🥅 Goal This Years : Contribute more to Open Source projects
 
+<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="tondy666 Spotify Playing" width="350" />](https://open.spotify.com/user/2qjtexdu1jocylwuys43trc4s)
