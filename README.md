@@ -35,6 +35,7 @@
 [twitter]: https://twitter.com/tondy_666
 [instagram]: https://instagram.com/tondy_666
 
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -125,7 +126,7 @@ p {
   <body>
     <div class="text-center">
     <img src="">
-    <h1>Nama Lo sp</h1>
+    <h1> Tondi </h1>
     <a href="https://instagram.com/tondy_666/"
 target="_blank"><i class="fab fa-instagram" style="margin-right: 10px;"></i></a>
     <a href="https://github.com//"
